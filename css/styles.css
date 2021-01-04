@@ -1,0 +1,48 @@
+body{
+    background-color: white;
+    padding: none;
+    margin-top: 0px;
+    min-width: 800px;
+
+}
+.important{
+    text-align: center;
+    height: 50px;
+    border: 4px;
+    background-color: #99ff99 ;
+    height: 100px;
+}
+.Background{
+    width:30%;
+    float: right;
+    background-color: #99ff99 ;
+    height:500px;
+
+}
+.Name{
+    width:70%;
+    display: inline;
+    text-align: center;
+    font-size: 25px;
+}
+.Name,img{
+    width:875px;
+    height:500px;
+}
+#h3{
+    font-size: 40px;
+}
+#h4{
+    font-size: 25px;
+    font-family: cursive;
+    
+}
+footer{
+      background-color:#99ff99 ;
+      height: 100px;
+      text-align: center;
+      text-decoration: white;
+}
+.important, h1{
+    padding-top: 6px;
+}
